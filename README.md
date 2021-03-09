@@ -2,6 +2,7 @@
 
 The NBA Prediction project uses applications of machine learning to predict the outcome of NBA games.
 
+[Documentation for Specific Programs](https://github.com/RohanPankaj/NBA-Prediction/tree/master/docs)
 ### Disclaimer: 
 
 Predictions made by the NBA Predictions Project are for entertainment purposes only. Rohan Pankaj will not be responsible for any and all losses resultant from the use of this project. 
