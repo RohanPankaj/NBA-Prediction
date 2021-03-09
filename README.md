@@ -1,7 +1,11 @@
 # NBA-Prediction
 
 The NBA Prediction project uses applications of machine learning to predict the outcome of NBA games.
+This is an ongoing project. Feel free to follow along with the corresponding youtube playlist.
+[ML NABA Predictions Project Playlist](https://www.youtube.com/playlist?list=PL5BXABxzb1dK7ZQWb4SFr4KqdYknh6x6L)
 
+
+There is also documentation for each program in the repo.
 [Documentation for Specific Programs](https://github.com/RohanPankaj/NBA-Prediction/tree/master/docs)
 ### Disclaimer: 
 
