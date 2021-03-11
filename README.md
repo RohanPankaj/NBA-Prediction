@@ -11,6 +11,10 @@ There is also documentation for each program in the repo.
 [Documentation for Specific Programs](https://github.com/RohanPankaj/NBA-Prediction/tree/master/docs)
 ### Disclaimer: 
 
+This repo and its contents are the property of Rohan Pankaj
+© Rohan Pankaj 2021
+
+
 Predictions made by the NBA Predictions Project are for entertainment purposes only. Rohan Pankaj will not be responsible for any and all losses resultant from the use of this project. 
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
