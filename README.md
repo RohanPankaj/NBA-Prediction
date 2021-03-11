@@ -1,5 +1,7 @@
 # NBA-Prediction
 
+To see the latest predictions go to: https://www.rohanpankaj.com/nba-predictions
+
 The NBA Prediction project uses applications of machine learning to predict the outcome of NBA games.
 This is an ongoing project. Feel free to follow along with the corresponding youtube playlist.
 [ML NBA Predictions Project Playlist](https://www.youtube.com/playlist?list=PL5BXABxzb1dK7ZQWb4SFr4KqdYknh6x6L)
