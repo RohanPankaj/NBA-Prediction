@@ -15,7 +15,7 @@ This repo and its contents are the property of Rohan Pankaj
 © Rohan Pankaj 2021
 
 
-Predictions made by the NBA Predictions Project are for entertainment purposes only. Rohan Pankaj will not be responsible for any and all losses resultant from the use of this project. 
+Predictions made by the NBA Predictions Project are for entertainment purposes only. Rohan Pankaj will not be responsible for any and all losses resultant from the use of this project and/or its derivatives. 
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
 IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
