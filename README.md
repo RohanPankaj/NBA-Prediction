@@ -25,7 +25,7 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-
+For more information check out the [License](https://github.com/RohanPankaj/NBA-Prediction/blob/master/LICENSE)
 ## USE:
 
 *** more to come 
