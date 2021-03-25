@@ -1,4 +1,4 @@
-# Team-Predictions-New
+# Team-Prediction
 [Team-Predictions-New.ipynb](https://github.com/RohanPankaj/NBA-Prediction/blob/dev/Team-Predictions-New.ipynb)
 This program can be used to predict the score of a Team against a particular opponent. 
 
