@@ -1,4 +1,4 @@
-									********** Release Document for the NBA-Predictions Project v1.0-Beta **********
+							********** Release Document for the NBA-Predictions Project v1.0-Beta **********
 
 
 Note: This release is a beta-version. 
