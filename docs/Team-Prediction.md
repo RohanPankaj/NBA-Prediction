@@ -10,6 +10,7 @@ Make sure you have the following packages installed:
 * tensorflow
 * time
 * nba_api
+* math
 
 ### Making a Prediction
 
