@@ -27,5 +27,5 @@ SOFTWARE.
 
 For more information check out the [License](https://github.com/RohanPankaj/NBA-Prediction/blob/master/LICENSE)
 ## USE:
+[Refer to specific documentation for each program.](https://github.com/RohanPankaj/NBA-Prediction/tree/master/docs)
 
-*** more to come 
