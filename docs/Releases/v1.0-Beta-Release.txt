@@ -1,0 +1,29 @@
+							********** Release Document for the NBA-Predictions Project v1.0-Beta **********
+
+
+Note: This release is a beta-version. 
+
+This is the first official release for the NBA-Predictions project. This release includes the Team-Prediction script which can be used to predict the score of upcoming NBA games. 
+
+To use the scripts in this release ensure that your environment has the requisite packages outlined in each script's documentation. As of this release, the requisite packages are: 
+
+	1. pandas
+	2. seaborn
+	3. TensorFlow
+	4. time
+	5. nba_api
+	6. math
+
+The documentation for the following scripts can be found at the corresponding locations
+	
+	Team-Prediction: https://github.com/RohanPankaj/NBA-Prediction/blob/master/docs/Team-Prediction.md
+
+
+DISCLAIMER:
+This release and its contents are the property of Rohan Pankaj © Rohan Pankaj 2021
+
+Predictions made by the NBA Predictions Project are for entertainment purposes only. Rohan Pankaj will not be responsible for any and all losses resultant from the use of this project and/or its derivatives.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
+For more information refer to the license at the following address: https://github.com/RohanPankaj/NBA-Prediction/blob/master/LICENSE
