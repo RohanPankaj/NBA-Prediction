@@ -2,7 +2,7 @@
 
 To download the latest release go to: https://github.com/RohanPankaj/NBA-Prediction/releases
 
-To see the latest predictions go to: https://www.rohanpankaj.com/projects/nba-predictions/predictions
+To see the project page visit: https://www.rohanpankaj.com/projects/nba-predictions
 
 The NBA Prediction project uses applications of machine learning to predict the outcome of NBA games.
 This is an ongoing project. Feel free to follow along with the corresponding youtube playlist.
